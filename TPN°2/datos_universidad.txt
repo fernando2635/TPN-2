@@ -1,0 +1,50 @@
+8
+Perez Romero
+Juan Manuel
+22
+Masculino
+Gonzalez
+Ana
+20
+Femenino
+Martinez
+Carlos
+25
+Masculino
+Gomez
+Luisa Maria
+21
+Femenino
+Hernandez
+Miguel
+24
+Masculino
+Ramirez
+Fernanda
+19
+Femenino
+Sanchez
+Diego
+30
+Masculino
+Fernandez
+Carla
+27
+Femenino
+8
+Algoritmos y Estructuras de Datos
+Programacion Orientada a Objetos
+Sistemas Operativos
+Bases de Datos
+Redes de Computadoras
+Arquitectura de Computadores
+Inteligencia Artificial
+Ingenieria de Software
+7 4 6 4 5 10 9 8
+9 7 8 6 7 8 6 10
+6 7 8 8 6 7 6 7
+2 9 2 8 6 7 6 8
+6 7 6 8 10 7 6 7
+6 9 6 8 6 7 6 7
+2 7 6 8 6 3 6 7
+6 9 6 8 6 7 6 7

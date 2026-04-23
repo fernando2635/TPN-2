@@ -1,0 +1,250 @@
+MACCIO GERMAN
+18
+Mecatronica
+Basquet
+10
+CARSOGLIO ISMAEL RAUL
+18
+Sistemas
+Futbol
+10
+CARSOGLIO RAQUEL AMALIA
+23
+Abogacia
+Tenis
+2
+ROSA HUMBERTO
+26
+Turismo
+Volley
+6
+DE LA FUENTE VICTOR MARIA
+29
+Enfermeria
+Basquet
+9
+PEREYRA OSCAR GUSTAVO
+27
+Agronomia
+Volley
+4
+BENTANCOR JUAN CARLOS
+26
+Abogacia
+Volley
+2
+DE LEON SIOMARA
+22
+Mecatronica
+Tenis
+5
+DANREE MARIA SOLEDAD
+29
+Sistemas
+Futbol
+7
+ELDUAYEN ANA MARIA
+29
+Turismo
+Tenis
+6
+LASSO PABLO
+28
+Sistemas
+Futbol
+6
+SANCHEZ HECTOR CICERON
+21
+Mecatronica
+Basquet
+5
+VIANA JULIANA
+26
+Sistemas
+Tenis
+7
+FERNANDEZ ARTIGAS ALEXIS
+24
+Sistemas
+Futbol
+9
+RECUERO DANIEL HONORIO
+24
+Turismo
+Basquet
+8
+GENERALLI OSCAR DIEGO
+30
+Turismo
+Volley
+1
+GOYTIÑO RAFAEL ARTURO
+28
+Agronomia
+Tenis
+6
+GARRIDO JORGE OTTO
+23
+Mecatronica
+Tenis
+9
+RIOS HAYDEE EMILIA
+25
+Mecatronica
+Tenis
+8
+MAIO HECTOR
+27
+Agronomia
+Basquet
+10
+PEREGALLI FAVIO DANIEL
+20
+Abogacia
+Futbol
+8
+SPINELLI JULIO JOSE
+30
+Turismo
+Basquet
+3
+SILVERA EDUARDO
+20
+Abogacia
+Tenis
+5
+DE SOUZA ISABELINO WILSON
+20
+Turismo
+Basquet
+7
+LUCHINI ROBERTO BENJAMIN
+18
+Mecatronica
+Futbol
+6
+LOZANO JOSE ARTURO
+26
+Sistemas
+Volley
+9
+MOURIN EDITH ELENA
+26
+Mecatronica
+Tenis
+10
+COGO ROBERTO
+28
+Mecatronica
+Futbol
+6
+DIAZ ANA MARIA
+18
+Sistemas
+Futbol
+2
+MENDARO MARIA CRISTINA
+22
+Turismo
+Tenis
+6
+BONILLA VICTORIA
+24
+Enfermeria
+Basquet
+6
+PEREIRA DAS NEVES RONI LUCAS
+22
+Enfermeria
+Futbol
+3
+MUNIZ GUSTAVO ROBERTO
+30
+Agronomia
+Futbol
+10
+GRASSI JULIA SUSANA
+29
+Enfermeria
+Basquet
+0
+CANZANI DIAMELA
+30
+Turismo
+Tenis
+0
+SUAREZ SILVANA
+23
+Sistemas
+Futbol
+0
+BELEA MANUEL JOAQUIN
+25
+Agronomia
+Volley
+10
+ANDRIOLO ANA MARIA
+21
+Sistemas
+Basquet
+0
+ASTRALDI GRACIELA TERESITA
+22
+Turismo
+Volley
+1
+LEMOLE ERNESTO GABRIEL
+20
+Abogacia
+Tenis
+10
+ECHEVERRIA FRANCISCO SNATIAGO
+22
+Sistemas
+Basquet
+7
+CAULA FLAVIO GUSTAVO
+26
+Mecatronica
+Tenis
+9
+NOBRE GARY ASTUL
+19
+Mecatronica
+Futbol
+7
+SILVERA MARIA LILIAN
+19
+Sistemas
+Futbol
+4
+BOUNOUS ENZO
+20
+Turismo
+Tenis
+9
+CAMPARI ESTELA
+30
+Agronomia
+Basquet
+5
+GARCIA GLORIA DEL CARMEN
+24
+Abogacia
+Volley
+7
+CHEVESTE ANTONIO
+22
+Sistemas
+Futbol
+7
+CAORSI JUAN JOSÉ
+26
+Turismo
+Tenis
+9
+GORENA ROBERTO CARLOS
+29
+Abogacia
+Basquet
+1
